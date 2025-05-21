@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRa1ciJFC5A=",
+  "success": true,
+  "projectFilePath": "D:\\repos\\ExamenAppConsola\\ExamenAppConsola\\ExamenAppConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\log4net\\3.1.0\\log4net.3.1.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.web.xdt\\3.1.0\\microsoft.web.xdt.3.1.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.5\\system.diagnostics.eventlog.9.0.5.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.serviceprocess.servicecontroller\\9.0.5\\system.serviceprocess.servicecontroller.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

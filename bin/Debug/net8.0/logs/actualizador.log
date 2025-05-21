@@ -1,0 +1,394 @@
+[2025-05-20 02:15:18,476] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 02:25:30,303] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 02:33:16,937] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 02:41:52,860] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 02:44:17,232] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 02:45:30,532] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 02:47:56,417] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 02:47:56,430] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 02:47:59,205] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 02:53:37,825] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 02:57:08,543] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\restart_service.bat.exc con extensión .exc
+[2025-05-20 02:57:17,312] [ERROR] [BATCH ERR] Error de sistema 5.
+[2025-05-20 02:57:17,313] [ERROR] [BATCH ERR] Acceso denegado.
+[2025-05-20 02:57:38,155] [ERROR] Error ejecutando script restart_service.bat con extensión .exc
+System.Exception: El script restart_service.bat terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension)
+[2025-05-20 11:59:10,257] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:04:06,552] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 12:07:52,869] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:08:22,354] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 12:10:28,255] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:10:42,756] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 12:11:38,138] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:12:04,952] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 12:14:56,359] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:19:38,291] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:20:39,226] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 12:25:49,432] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:25:55,764] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.eini con extensión .eini
+[2025-05-20 12:31:20,960] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:31:31,617] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 12:34:06,551] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:35:11,974] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 12:44:29,048] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:44:34,475] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 12:49:08,945] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:49:13,386] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 12:56:37,663] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 12:56:42,734] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 13:01:48,741] [INFO] Backup creado para start_service en /tmp\Backup\001c30\TestUpdatePackage\Prueba
+[2025-05-20 13:02:41,969] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 13:02:41,971] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 13:03:06,392] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 13:31:38,001] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 13:32:55,408] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 13:35:27,827] [INFO] Backup creado para stop_service.bat en /tmp\Backup\001c30
+[2025-05-20 13:35:34,597] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 13:35:34,599] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 13:35:47,056] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 13:37:35,163] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 14:16:24,573] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config.xml
+[2025-05-20 14:17:22,231] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 14:17:54,485] [INFO] Backup creado para post_install.bat en /tmp\Backup\001c30
+[2025-05-20 14:18:01,221] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:18:01,222] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:18:03,197] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 14:24:11,495] [INFO] ReleaseUpdateMonitorTask ejecutado (implementa lógica específica).
+[2025-05-20 14:24:11,906] [INFO] Actualizaciones al monitor terminadas...
+[2025-05-20 14:24:38,749] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 14:31:51,491] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 14:32:11,242] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Start Service\start_service.eini con extensión .eini
+[2025-05-20 14:32:11,245] [INFO] Backup creado para start_service en /tmp\Backup\a65ab2\Start Service
+[2025-05-20 14:32:13,456] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:32:13,457] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:32:13,467] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 14:32:17,559] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 14:32:18,668] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 14:32:18,671] [INFO] Backup creado para stop_service.bat en /tmp\Backup\a65ab2
+[2025-05-20 14:32:21,271] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 14:32:21,272] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 14:32:21,280] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 14:32:21,283] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 14:32:21,396] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 14:32:25,032] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.bat.eend con extensión .eend
+[2025-05-20 14:32:25,034] [INFO] Backup creado para start_service.bat en /tmp\Backup\a65ab2
+[2025-05-20 14:32:27,151] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:32:27,152] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:32:27,159] [INFO] Script start_service.bat ejecutado correctamente.
+[2025-05-20 14:35:38,053] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 14:46:16,376] [INFO] Ejecutando script /tmp\Backup\a65ab2\Start Service\start_service.eini con extensión .eini
+[2025-05-20 14:46:18,833] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:46:18,835] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:46:18,853] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 14:48:06,425] [INFO] Archivo eliminado: C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 14:48:16,448] [INFO] Ejecutando script /tmp\Backup\a65ab2\stop_service.bat.exc con extensión .exc
+[2025-05-20 14:48:19,074] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 14:48:19,076] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 14:48:19,083] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 14:48:19,084] [INFO] Archivo eliminado: C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 14:48:19,091] [INFO] Archivo copiado de /tmp\Backup\a65ab2\web.config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 14:48:22,258] [INFO] Ejecutando script /tmp\Backup\a65ab2\start_service.bat.eend con extensión .eend
+[2025-05-20 14:48:24,376] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:48:24,379] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:48:24,384] [INFO] Script start_service.bat ejecutado correctamente.
+[2025-05-20 14:49:40,298] [INFO] Ejecutando script /tmp\Backup\a65ab2\Start Service\start_service.eini con extensión .eini
+[2025-05-20 14:49:40,661] [ERROR] [BATCH ERR] El servicio solicitado ya ha sido iniciado.
+[2025-05-20 14:49:40,665] [ERROR] [BATCH ERR] Puede obtener más ayuda con el comando NET HELPMSG 2182.
+[2025-05-20 14:49:40,731] [ERROR] Error ejecutando script start_service con extensión .eini
+System.Exception: El script start_service terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension, String sourceFolder)
+[2025-05-20 14:50:33,719] [INFO] Ejecutando script /tmp\Backup\a65ab2\Start Service\start_service.eini con extensión .eini
+[2025-05-20 14:50:39,763] [ERROR] [BATCH ERR] El servicio solicitado ya ha sido iniciado.
+[2025-05-20 14:50:39,764] [ERROR] [BATCH ERR] Puede obtener más ayuda con el comando NET HELPMSG 2182.
+[2025-05-20 14:51:04,774] [ERROR] Error ejecutando script start_service con extensión .eini
+System.Exception: El script start_service terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension, String sourceFolder)
+[2025-05-20 14:51:43,885] [INFO] MonitorUpdater: System.Exception: El script start_service terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension, String sourceFolder)
+   at ExamenAppConsola.FileUpdater.FileUpdater.<>c__DisplayClass10_0.<UpdateFiles>b__0(String file)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at ExamenAppConsola.FileUpdater.FileUpdater.UpdateFiles(String sourceFolder, String targetFolder, String backupDir)
+[2025-05-20 14:54:52,436] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 14:55:17,569] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Start Service\start_service.eini con extensión .eini
+[2025-05-20 14:55:17,573] [INFO] Backup creado para start_service en /tmp\Backup\2a0c22\Start Service
+[2025-05-20 14:55:17,839] [ERROR] [BATCH ERR] El servicio solicitado ya ha sido iniciado.
+[2025-05-20 14:55:17,840] [ERROR] [BATCH ERR] Puede obtener más ayuda con el comando NET HELPMSG 2182.
+[2025-05-20 14:55:17,860] [ERROR] Error ejecutando script start_service con extensión .eini
+System.Exception: El script start_service terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension, String sourceFolder) in D:\repos\ExamenAppConsola\ExamenAppConsola\FileUpdater\FileUpdater.cs:line 259
+[2025-05-20 14:56:07,608] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 14:56:46,057] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Start Service\start_service.eini con extensión .eini
+[2025-05-20 14:56:46,061] [INFO] Backup creado para start_service en /tmp\Backup\9bebe4\Start Service
+[2025-05-20 14:56:49,717] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:56:49,718] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:56:51,594] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 14:57:21,243] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 14:57:21,244] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 14:57:21,246] [INFO] Backup creado para stop_service.bat en /tmp\Backup\9bebe4
+[2025-05-20 14:57:25,466] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 14:57:25,467] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 14:57:27,228] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 14:57:38,104] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 14:58:04,130] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 14:58:08,078] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.bat.eend con extensión .eend
+[2025-05-20 14:58:08,080] [INFO] Backup creado para start_service.bat en /tmp\Backup\9bebe4
+[2025-05-20 14:58:10,739] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 14:58:10,740] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 14:58:13,145] [INFO] Script start_service.bat ejecutado correctamente.
+[2025-05-20 15:00:41,132] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 15:01:04,998] [INFO] Ejecutando script /tmp\Backup\9bebe4\Start Service\start_service.eini con extensión .eini
+[2025-05-20 15:01:08,246] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:01:08,250] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:01:09,822] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:01:21,326] [INFO] Archivo eliminado: C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:01:28,328] [INFO] Ejecutando script /tmp\Backup\9bebe4\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:01:39,498] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:01:39,500] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:01:41,044] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:01:48,155] [INFO] Archivo eliminado: C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:01:52,644] [INFO] Archivo copiado de /tmp\Backup\9bebe4\web.config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:02:44,076] [INFO] Ejecutando script /tmp\Backup\9bebe4\start_service.bat.eend con extensión .eend
+[2025-05-20 15:02:47,499] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:02:47,502] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:02:51,263] [INFO] Script start_service.bat ejecutado correctamente.
+[2025-05-20 15:04:00,207] [INFO] Terminado rollback de las actualizaciones al monitor...
+[2025-05-20 15:04:38,405] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:04:53,709] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Start Service\start_service.eini con extensión .eini
+[2025-05-20 15:04:53,714] [INFO] Backup creado para start_service en /tmp\Backup\0d0c18\Start Service
+[2025-05-20 15:04:56,430] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:04:56,431] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:04:56,443] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:04:56,450] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:04:56,450] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:04:56,453] [INFO] Backup creado para stop_service.bat en /tmp\Backup\0d0c18
+[2025-05-20 15:04:59,929] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:04:59,930] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:04:59,937] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:04:59,939] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:05:04,918] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:05:05,698] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\start_service.bat.eend con extensión .eend
+[2025-05-20 15:05:05,700] [INFO] Backup creado para start_service.bat en /tmp\Backup\0d0c18
+[2025-05-20 15:05:08,842] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:05:08,843] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:05:08,852] [INFO] Script start_service.bat ejecutado correctamente.
+[2025-05-20 15:09:08,925] [INFO] ReleaseUpdateMonitorTask ejecutado.
+[2025-05-20 15:09:09,346] [INFO] Actualizaciones al monitor terminadas...
+[2025-05-20 15:10:14,588] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:10:25,240] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:10:25,242] [INFO] Backup creado para start_service en /tmp\Backup\36b008\Prueba
+[2025-05-20 15:10:40,267] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:10:40,269] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:10:41,891] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:14:32,783] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:15:34,200] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:15:34,225] [INFO] Backup creado para stop_service.bat en /tmp\Backup\36b008
+[2025-05-20 15:15:38,374] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:15:38,377] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:15:38,385] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:15:39,412] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:15:49,742] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:15:52,028] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 15:15:52,041] [INFO] Backup creado para post_install.bat en /tmp\Backup\36b008
+[2025-05-20 15:15:56,943] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:15:56,943] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:15:58,718] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:18:59,644] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 15:19:19,047] [INFO] Ejecutando script /tmp\Backup\36b008\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:19:22,067] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:19:22,068] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:19:22,076] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:19:22,078] [INFO] Archivo copiado de /tmp\Backup\36b008\config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:19:22,081] [INFO] Ejecutando script /tmp\Backup\36b008\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:19:25,651] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:19:25,651] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:19:25,662] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:19:25,664] [INFO] Archivo copiado de /tmp\Backup\36b008\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:19:25,668] [INFO] Archivo copiado de /tmp\Backup\36b008\web.config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:19:28,649] [INFO] Ejecutando script /tmp\Backup\36b008\post_install.bat.eend con extensión .eend
+[2025-05-20 15:19:31,835] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:19:31,837] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:19:33,890] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:21:05,498] [INFO] Terminado rollback de las actualizaciones al monitor...
+[2025-05-20 15:22:23,891] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:22:25,244] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:22:25,249] [INFO] Backup creado para start_service en /tmp\Backup\78bad6\Prueba
+[2025-05-20 15:22:28,077] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:22:28,079] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:22:28,090] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:22:28,095] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:22:28,096] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:22:28,099] [INFO] Backup creado para stop_service.bat en /tmp\Backup\78bad6
+[2025-05-20 15:22:31,669] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:22:31,670] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:22:31,677] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:22:31,679] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:22:33,987] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:22:34,741] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 15:22:34,742] [INFO] Backup creado para post_install.bat en /tmp\Backup\78bad6
+[2025-05-20 15:22:37,618] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:22:37,619] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:22:37,627] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:23:46,842] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 15:24:24,876] [INFO] Ejecutando script /tmp\Backup\78bad6\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:24:27,673] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:24:27,676] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:24:27,682] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:24:27,683] [INFO] Archivo copiado de /tmp\Backup\78bad6\config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:24:27,686] [INFO] Ejecutando script /tmp\Backup\78bad6\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:24:33,264] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:24:33,265] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:24:33,273] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:24:33,274] [INFO] Archivo copiado de /tmp\Backup\78bad6\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:24:33,276] [INFO] Archivo copiado de /tmp\Backup\78bad6\web.config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:24:34,245] [INFO] Ejecutando script /tmp\Backup\78bad6\post_install.bat.eend con extensión .eend
+[2025-05-20 15:24:37,309] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:24:37,312] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:24:37,321] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:25:15,613] [INFO] Terminado rollback de las actualizaciones al monitor...
+[2025-05-20 15:37:42,747] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:49:38,629] [INFO] Servicio 'wuauserv' detenido.
+[2025-05-20 15:50:00,342] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:50:13,238] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:50:13,244] [INFO] Backup creado para start_service en /tmp\Backup\d7547b\Prueba
+[2025-05-20 15:50:17,285] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:50:17,286] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:50:20,648] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:50:23,604] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:50:23,604] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:50:23,606] [INFO] Backup creado para stop_service.bat en /tmp\Backup\d7547b
+[2025-05-20 15:50:27,562] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:50:27,563] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:50:31,320] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:50:35,979] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:50:37,890] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:50:40,807] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 15:50:40,810] [INFO] Backup creado para post_install.bat en /tmp\Backup\d7547b
+[2025-05-20 15:50:44,206] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:50:44,207] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:50:47,428] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:52:06,454] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 15:52:11,127] [INFO] Ejecutando script /tmp\Backup\d7547b\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:52:11,861] [ERROR] [BATCH ERR] El servicio solicitado ya ha sido iniciado.
+[2025-05-20 15:52:11,895] [ERROR] [BATCH ERR] Puede obtener más ayuda con el comando NET HELPMSG 2182.
+[2025-05-20 15:52:17,429] [ERROR] Error ejecutando script start_service con extensión .eini
+System.Exception: El script start_service terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension, String sourceFolder) in D:\repos\ExamenAppConsola\ExamenAppConsola\FileUpdater\FileUpdater.cs:line 258
+[2025-05-20 15:52:18,352] [INFO] MonitorUpdater: System.Exception: El script start_service terminó con código de salida 2
+   at ExamenAppConsola.FileUpdater.FileUpdater.ExecuteBats(String file, String fileName, String targetRelativeDirectory, Boolean createBackup, String backupDir, String extension, String sourceFolder) in D:\repos\ExamenAppConsola\ExamenAppConsola\FileUpdater\FileUpdater.cs:line 258
+   at ExamenAppConsola.FileUpdater.FileUpdater.<>c__DisplayClass10_0.<UpdateFiles>b__0(String file) in D:\repos\ExamenAppConsola\ExamenAppConsola\FileUpdater\FileUpdater.cs:line 49
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at ExamenAppConsola.FileUpdater.FileUpdater.UpdateFiles(String sourceFolder, String targetFolder, String backupDir) in D:\repos\ExamenAppConsola\ExamenAppConsola\FileUpdater\FileUpdater.cs:line 45
+[2025-05-20 15:53:44,549] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:54:04,018] [INFO] Servicio 'wuauserv' detenido.
+[2025-05-20 15:54:04,925] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 15:54:14,723] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:54:14,725] [INFO] Backup creado para start_service en /tmp\Backup\262844\Prueba
+[2025-05-20 15:54:17,335] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:54:17,340] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:54:17,349] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:54:17,358] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:54:17,359] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:54:17,360] [INFO] Backup creado para stop_service.bat en /tmp\Backup\262844
+[2025-05-20 15:54:20,802] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:54:20,803] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:54:20,809] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:54:20,812] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:54:21,944] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:54:22,588] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 15:54:22,590] [INFO] Backup creado para post_install.bat en /tmp\Backup\262844
+[2025-05-20 15:54:25,658] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:54:25,659] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:54:25,667] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:55:30,400] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 15:55:34,126] [INFO] Ejecutando script /tmp\Backup\262844\Prueba\start_service.eini con extensión .eini
+[2025-05-20 15:55:37,194] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:55:37,198] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:55:37,203] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 15:55:37,205] [INFO] Archivo copiado de /tmp\Backup\262844\config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 15:55:37,206] [INFO] Ejecutando script /tmp\Backup\262844\stop_service.bat.exc con extensión .exc
+[2025-05-20 15:55:41,632] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 15:55:41,633] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 15:55:41,639] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 15:55:41,640] [INFO] Archivo copiado de /tmp\Backup\262844\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 15:55:41,645] [INFO] Archivo copiado de /tmp\Backup\262844\web.config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 15:55:44,192] [INFO] Ejecutando script /tmp\Backup\262844\post_install.bat.eend con extensión .eend
+[2025-05-20 15:55:47,823] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 15:55:47,824] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 15:55:47,830] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 15:56:19,162] [INFO] Terminado rollback de las actualizaciones al monitor...
+[2025-05-20 15:57:02,859] [INFO] Servicio 'wuauserv' detenido.
+[2025-05-20 15:57:14,922] [INFO] Servicio 'wuauserv' iniciado.
+[2025-05-20 23:18:43,037] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 23:21:33,151] [WARN] No se encontró el archivo de paquete ZIP esperado: C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage.zip
+[2025-05-20 23:44:27,763] [INFO] Servicio 'wuauserv' detenido.
+[2025-05-20 23:44:30,618] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 23:46:36,747] [INFO] Ejecutando script C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_323146\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 23:46:39,758] [INFO] Backup creado para start_service en /tmp\Backup\06bf2e\TestUpdatePackage\Prueba
+[2025-05-20 23:46:49,253] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 23:46:49,255] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 23:46:50,869] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 23:46:50,901] [INFO] Archivo copiado de C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_323146\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\TestUpdatePackage\config
+[2025-05-20 23:46:50,902] [INFO] Ejecutando script C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_323146\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 23:46:50,903] [INFO] Backup creado para stop_service.bat en /tmp\Backup\06bf2e\TestUpdatePackage\TestUpdatePackage
+[2025-05-20 23:46:55,588] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 23:46:55,590] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 23:46:55,598] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 23:46:55,602] [INFO] Archivo copiado de C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_323146\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\TestUpdatePackage\system
+[2025-05-20 23:48:32,301] [INFO] Servicio 'wuauserv' detenido.
+[2025-05-20 23:48:32,898] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 23:48:49,593] [INFO] Ejecutando script C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_d58551\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 23:49:02,100] [INFO] Backup creado para start_service en /tmp\Backup\fea71e\TestUpdatePackage\Prueba
+[2025-05-20 23:49:07,817] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 23:49:07,818] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 23:49:09,735] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 23:49:49,074] [INFO] Archivo copiado de C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_d58551\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\TestUpdatePackage\config
+[2025-05-20 23:49:49,570] [INFO] Ejecutando script C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_d58551\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 23:49:49,572] [INFO] Backup creado para stop_service.bat en /tmp\Backup\fea71e\TestUpdatePackage\TestUpdatePackage
+[2025-05-20 23:49:52,840] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 23:49:52,843] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 23:49:52,856] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 23:49:55,735] [INFO] Archivo copiado de C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_d58551\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\TestUpdatePackage\system
+[2025-05-20 23:49:59,984] [INFO] Ejecutando script C:\Users\aleja\AppData\Local\Temp\updatePackageExtracted_d58551\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 23:49:59,985] [INFO] Backup creado para post_install.bat en /tmp\Backup\fea71e\TestUpdatePackage\TestUpdatePackage
+[2025-05-20 23:50:03,928] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 23:50:03,929] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 23:50:03,936] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 23:55:25,727] [INFO] Servicio 'wuauserv' detenido.
+[2025-05-20 23:55:27,787] [INFO] Iniciando las actualizaciones al monitor...
+[2025-05-20 23:56:19,867] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\Prueba\start_service.eini con extensión .eini
+[2025-05-20 23:56:30,724] [INFO] Backup creado para start_service en /tmp\Backup\ba58a9\Prueba
+[2025-05-20 23:56:34,881] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 23:56:34,882] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 23:56:34,894] [INFO] Script start_service ejecutado correctamente.
+[2025-05-20 23:56:49,763] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\config.add a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-20 23:57:01,299] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\stop_service.bat.exc con extensión .exc
+[2025-05-20 23:57:01,346] [INFO] Backup creado para stop_service.bat en /tmp\Backup\ba58a9
+[2025-05-20 23:57:06,013] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-20 23:57:06,015] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-20 23:57:06,032] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-20 23:57:06,035] [INFO] Archivo copiado de C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-20 23:57:06,192] [INFO] Merge realizado XDT para C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\web.config.xmrg sobre C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-20 23:57:19,933] [INFO] Ejecutando script C:\Users\aleja\OneDrive\Escritorio\Examen\TestUpdatePackage\post_install.bat.eend con extensión .eend
+[2025-05-20 23:57:24,193] [INFO] Backup creado para post_install.bat en /tmp\Backup\ba58a9
+[2025-05-20 23:57:30,024] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-20 23:57:30,025] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-20 23:57:31,754] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-20 23:59:40,752] [INFO] Realizando rollback de las actualizaciones al monitor...
+[2025-05-20 23:59:48,241] [INFO] Ejecutando script /tmp\Backup\ba58a9\Prueba\start_service.eini con extensión .eini
+[2025-05-21 00:00:09,223] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-21 00:00:09,224] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-21 00:00:11,999] [INFO] Script start_service ejecutado correctamente.
+[2025-05-21 00:00:12,002] [INFO] Archivo copiado de /tmp\Backup\ba58a9\config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\config
+[2025-05-21 00:00:12,003] [INFO] Ejecutando script /tmp\Backup\ba58a9\stop_service.bat.exc con extensión .exc
+[2025-05-21 00:00:15,957] [INFO] [BATCH OUT] El servicio de Windows Update está deteniéndose.
+[2025-05-21 00:00:15,958] [INFO] [BATCH OUT] El servicio de Windows Update se detuvo correctamente.
+[2025-05-21 00:00:15,967] [INFO] Script stop_service.bat ejecutado correctamente.
+[2025-05-21 00:00:15,970] [INFO] Archivo copiado de /tmp\Backup\ba58a9\system.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\system
+[2025-05-21 00:00:15,971] [INFO] Archivo copiado de /tmp\Backup\ba58a9\web.config.upd a C:\Users\aleja\OneDrive\Escritorio\Examen\Backup\web.config
+[2025-05-21 00:00:17,622] [INFO] Ejecutando script /tmp\Backup\ba58a9\post_install.bat.eend con extensión .eend
+[2025-05-21 00:00:20,920] [INFO] [BATCH OUT] El servicio de Windows Update está iniciándose.
+[2025-05-21 00:00:20,921] [INFO] [BATCH OUT] El servicio de Windows Update se ha iniciado correctamente.
+[2025-05-21 00:00:20,927] [INFO] Script post_install.bat ejecutado correctamente.
+[2025-05-21 00:00:37,960] [INFO] Terminado rollback de las actualizaciones al monitor...
+[2025-05-21 00:00:58,038] [INFO] Servicio 'wuauserv' iniciado.
